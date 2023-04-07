@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "nome": "Marta",
+    "sobrenome": "Will",
+    "telefone": "123456789",
+    "cpf": "123.456.789-90"
+  },
+  {
+    "id": 2,
+    "nome": "Laura",
+    "sobrenome": "Lanche",
+    "telefone": "123456789",
+    "cpf": "123.456.789-90"
+  },
+  {
+    "id": 3,
+    "nome": "Claudia",
+    "sobrenome": "Pancho",
+    "telefone": "7128930",
+    "cpf": "123.456.789-90"
+  }
+]
